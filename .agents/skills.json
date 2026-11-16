@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "path": "~/.gemini/skills-vault/web-frontend-ui",
+      "include_only": [
+        "nextjs-best-practices",
+        "react-best-practices-suite",
+        "tailwind-design-system",
+        "web-performance-optimization"
+      ]
+    },
+    {
+      "path": "~/.gemini/skills-vault/devops-qa-security-backend",
+      "include_only": [
+        "backend-dev-guidelines",
+        "api-documenter",
+        "security-audit-suite",
+        "secrets-management",
+        "test-automator",
+        "production-audit"
+      ]
+    },
+    {
+      "path": "~/.gemini/skills-vault/ai-agent-systems",
+      "include_only": [
+        "tool-design",
+        "context-optimization"
+      ]
+    }
+  ]
+}
